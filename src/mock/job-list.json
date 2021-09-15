@@ -1,0 +1,112 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "city": {
+            "PUNE": {
+                "id": 1,
+                "name": "PUNE",
+                "data": {
+                    "jobCategory": {
+                        "IT": {
+                            "id": 1,
+                            "dataScience": {
+                                "jobId": 1,
+                                "YOE": 3,
+                                "jobRole": "Sr. Data scientist"
+                            },
+                            "angular": {
+                                "jobId": 2,
+                                "YOE": 7,
+                                "jobRole": "Sr. Angular Developer"
+                            },
+                            "react": {
+                                "jobId": 3,
+                                "YOE": 6,
+                                "jobRole": "Sr. react Developer"
+                            }
+                        },
+                        "nonIT": {
+                            "id": 2,
+                            "BPO": {
+                                "jobId": 1,
+                                "YOE": 2,
+                                "jobRole": "Customer feedback taking"
+                            },
+                            "voiveProcessing": {
+                                "jobId": 2,
+                                "YOE": 3,
+                                "jobRole": "Customer calling"
+                            }
+                        },
+                        "government": {
+                            "id": 3,
+                            "NDA": {
+                                "jobId": 1,
+                                "YOE": "freshers",
+                                "jobRole": "Defence"
+                            },
+                            "BHEL": {
+                                "jobId": 1,
+                                "YOE": "freshers",
+                                "jobRole": "Sr. Electrical supervisor"
+                            }
+                        }
+                    }
+                }
+            },
+            "BENGALURU": {
+                "id": 1,
+                "name": "BENGALURU",
+                "data": {
+                    "jobCategory": {
+                        "IT": {
+                            "id": 1,
+                            "dataScience": {
+                                "jobId": 1,
+                                "YOE": 3,
+                                "jobRole": "Sr. Data scientist"
+                            },
+                            "angular": {
+                                "jobId": 2,
+                                "YOE": 7,
+                                "jobRole": "Sr. Angular Developer"
+                            },
+                            "react": {
+                                "jobId": 3,
+                                "YOE": 6,
+                                "jobRole": "Sr. react Developer"
+                            }
+                        },
+                        "nonIT": {
+                            "id": 2,
+                            "BPO": {
+                                "jobId": 1,
+                                "YOE": 2,
+                                "jobRole": "Customer feedback taking"
+                            },
+                            "voiveProcessing": {
+                                "jobId": 2,
+                                "YOE": 3,
+                                "jobRole": "Customer calling"
+                            }
+                        },
+                        "government": {
+                            "id": 3,
+                            "NDA": {
+                                "jobId": 1,
+                                "YOE": "freshers",
+                                "jobRole": "Defence"
+                            },
+                            "BHEL": {
+                                "jobId": 1,
+                                "YOE": "freshers",
+                                "jobRole": "Sr. Electrical supervisor"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

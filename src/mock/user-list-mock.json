@@ -1,0 +1,33 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "city": "Bengaluru",
+                "preferredJobLocation": "Bengaluru",
+                "yearOfExperience": "6"
+
+            },
+            {
+                "id": 2,
+                "name": "priya",
+                "email": "priya@gmail.com",
+                "city": "Pune",
+                "preferredJobLocation": "Bengaluru",
+                "yearOfExperience": "3"
+            },
+            {
+                "id": 3,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "city": "Hyderabad",
+                "preferredJobLocation": "Pune",
+                "yearOfExperience": "7"
+            }
+        ]
+    }
+}
